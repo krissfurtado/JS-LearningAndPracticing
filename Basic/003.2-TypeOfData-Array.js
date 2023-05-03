@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Handling array</title>
-</head>
-<body>
-    <script>
         const persons = ["Pedro", "Ana", "João", "Maria"]
         console.log("---------------Show array ---------------")
         console.log(persons)
@@ -34,6 +24,3 @@
         console.log("------------------------ Add index 9 ------------------------")
         persons[9] = "João"
         console.log(persons)
-    </script>
-</body>
-</html>

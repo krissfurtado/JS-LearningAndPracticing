@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Type of data</title>
-</head>
-<body>
-    <script>
+
         var sometext = "Krishna";
         var someNumbWthQuotationMarks = "1"
         var someNumbWithoutQuotationMark = 1
@@ -57,7 +48,3 @@
        
         
         console.log("the variable DateUserDefinedWithHours has value new Date(2023, 5, 1, 9, 22, 10) \nthat return: ", DateUserDefinedWithHours, "\nand is a type of",typeof(DateUserDefinedWithHours), `\n-------------------------------------------------`)
-
-    </script>
-</body>
-</html>

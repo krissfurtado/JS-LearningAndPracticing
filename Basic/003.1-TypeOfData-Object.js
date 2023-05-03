@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dealing with Objects</title>
-</head>
-<body>
-    <script>
         const person = {
             name: "Kris",
             age: 38,
@@ -42,6 +32,3 @@
         console.log("After ADD property height:\n", person)
 
         //Curiosity: even though it is a constant, the system allows changing its values and properties.
-    </script>
-</body>
-</html>
