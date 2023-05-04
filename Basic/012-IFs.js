@@ -21,3 +21,11 @@ if (person.gender == "M" && person.age <18){
 } else {
     console.log("nothing to say")
 } 
+/*
+//short answer
+if(person.gender == "M" && person.age >17){
+    console.log("you are approved")
+}else{
+    console.log("You are not approved")
+}
+*/
